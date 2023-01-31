@@ -15,6 +15,9 @@ Datatidyr provides a range of features to help users manage their data effective
 - Support for creating, editing, and deleting data entries
 - Powerful filtering and sorting tools
 - CSV export
+<br></br>
+
+![Flow diagram](image_assets/action_flow_diagam.jpg)
 
 ## | Project
 datatidyr is a personal project, used to advance my skills and feedback / contributions are therefore greatly appreciated.
