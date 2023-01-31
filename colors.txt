@@ -1,0 +1,5 @@
+Dark blue: #1E2E3F
+Light blue: #B8C9D9
+Green: #6DB67D
+Orange: #EE8A47
+Gray: #A0A0A0

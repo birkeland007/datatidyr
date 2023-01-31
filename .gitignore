@@ -1,0 +1,4 @@
+node_modules/
+frontend/node_modules
+venv
+gs_credentials.json
